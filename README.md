@@ -18,6 +18,6 @@ There are 1,607 total five star paid reviews and 1,025,317 total five star unpai
 
 ![final_df](https://user-images.githubusercontent.com/107213807/193126472-92776c0d-f895-436b-b732-5fdcc9f644a2.png)
 
-about 57% of the reviews are unpaid five star reviews and .09% reviews are paid five star reviews.
+About 57% of the reviews are unpaid five star reviews and .09% reviews are paid five star reviews.
 
 ## Summary:
