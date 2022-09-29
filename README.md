@@ -21,3 +21,4 @@ There are 1,607 total five star paid reviews and 1,025,317 total five star unpai
 About 57% of the reviews are unpaid five star reviews and .09% reviews are paid five star reviews.
 
 ## Summary:
+When looking at the data, there isn't much of a bias for paid reviews. The paid five star reviews take up less than 0.1% of all reviews, which means they aren't impacting much. In comparison to the unpaid five star reviews the paid reviews have little to no influence.
